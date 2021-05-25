@@ -1,5 +1,18 @@
 ---
 site_name: Groupstage
+copyright: Football bloody hell
+
+theme:
+  name: material
+  language: da
+
+plugins:
+  - search:
+      lang: da
+
 nav:
-  - Home: index.md
+  - 'Hvad er det her?': index.md
+  - 'EM 2020': EM2020.md
+  - 'Reglerne': reglerne.md
+  - 'Præmier': praemier.md
 ...
