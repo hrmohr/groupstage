@@ -9,10 +9,15 @@ theme:
 plugins:
   - search:
       lang: da
+  - table-reader:
+      data_path: "docs"
 
 nav:
   - 'Hvad er det her?': index.md
-  - 'EM 2020': EM2020.md
+  - 'Slutrunder':
+      - 'EM 2020':
+          - 'Deltag': slutrunder/em2020/deltag.md
+          - 'Stillingen': slutrunder/em2020/stillingen.md
   - 'Reglerne': reglerne.md
   - 'Præmier': praemier.md
 ...
