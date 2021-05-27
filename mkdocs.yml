@@ -11,6 +11,7 @@ plugins:
       lang: da
   - table-reader:
       data_path: "docs"
+  - macros:
 
 nav:
   - 'Hvad er det her?': index.md
