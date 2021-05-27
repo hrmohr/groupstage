@@ -1,3 +1,3 @@
 # Stillingen
 
-{{ read_excel('resources/em2020/em2020-stillingen.xls') }}
+{{ read_csv('resources/em2020/em2020-stillingen.csv') }}
