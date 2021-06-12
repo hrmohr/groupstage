@@ -12,6 +12,8 @@ extra_css:
 plugins:
   - search:
       lang: da
+  - table-reader:
+      data_path: "docs"
   - macros:
 
 nav:
