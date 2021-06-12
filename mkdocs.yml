@@ -6,11 +6,12 @@ theme:
   name: material
   language: da
 
+extra_css:
+  - 'css/groupstage.css'
+
 plugins:
   - search:
       lang: da
-  - table-reader:
-      data_path: "docs"
   - macros:
 
 nav:
