@@ -5,6 +5,7 @@ copyright: Football bloody hell
 theme:
   name: material
   language: da
+  favicon: favicon.ico
 
 extra_css:
   - 'css/groupstage.css'
@@ -13,7 +14,7 @@ plugins:
   - search:
       lang: da
   - table-reader:
-      data_path: "docs"
+      data_path: 'docs'
   - macros:
 
 nav:
