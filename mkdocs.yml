@@ -19,6 +19,10 @@ plugins:
 nav:
   - 'Hvad er det her?': index.md
   - 'Slutrunder':
+      - 'CL 2021/2021':
+          - 'Deltag': slutrunder/cl2122/deltag.md
+          - 'Stillingen': slutrunder/cl2122/stillingen.md
+          - 'Alle tips': resources/cl2122/cl2122-stillingen.html
       - 'EM 2020':
           - 'Deltag': slutrunder/em2020/deltag.md
           - 'Stillingen': slutrunder/em2020/stillingen.md
