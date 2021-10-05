@@ -11,7 +11,7 @@ mkdocs-macros-plugin==0.5.5
 mkdocs-material==7.1.5
 mkdocs-material-extensions==1.0.1
 mkdocs-table-reader-plugin==0.5
-nltk==3.6.2
+nltk==3.6.4
 numpy==1.20.3
 pandas==1.2.4
 Pygments==2.9.0
