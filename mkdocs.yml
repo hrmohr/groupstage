@@ -10,6 +10,10 @@ theme:
 extra_css:
   - 'css/groupstage.css'
 
+markdown_extensions:
+  - toc:
+      permalink: "#"
+
 plugins:
   - search:
       lang: da
@@ -20,6 +24,10 @@ plugins:
 nav:
   - 'Hvad er det her?': index.md
   - 'Slutrunder':
+      - 'VM 2022':
+          - 'Deltag': slutrunder/vm2022/deltag.md
+          - 'Stillingen': slutrunder/vm2022/stillingen.md
+          - 'Alle tips': resources/vm2022/vm2022-stillingen.html      
       - 'CL 2021/2021':
           - 'Deltag': slutrunder/cl2122/deltag.md
           - 'Stillingen': slutrunder/cl2122/stillingen.md
@@ -30,4 +38,5 @@ nav:
           - 'Alle tips': resources/em2020/em2020-stillingen.html
   - 'Reglerne': reglerne.md
   - 'Præmier': praemier.md
+  - 'Hall of fame': halloffame.md
 ...
