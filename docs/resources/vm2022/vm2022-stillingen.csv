@@ -1,20 +1,20 @@
 "#","Navn","Rigtige cifre","Rigtige tipstegn","Point TOTAL"
-1,"Allan Jensen",1,0,3
-2,"Christian Mohr",1,0,3
-3,"Mads Mohr",1,0,3
-4,"Andreas Mohr",0,1,1
-5,"Christian Andreasen",0,1,1
-6,"Jan Jul Tomczyk",0,1,1
-7,"Martin Juul",0,1,1
-8,"Martin Lundberg",0,1,1
-9,"Pia Jørgensen",0,1,1
-10,"Allan Hansen",0,0,0
-11,"Anders Thusholt",0,0,0
-12,"Carsten Løvenkrands",0,0,0
-13,"Emil Jørgensen",0,0,0
-14,"Laura Jørgensen",0,0,0
-15,"Mads Sylvester",0,0,0
-16,"Mie Jensen",0,0,0
-17,"Rolfen",0,0,0
-18,"Stefan Hvidkjær",0,0,0
-19,"TusIsking",0,0,0
+1,"Allan Jensen",2,1,7
+2,"Mads Mohr",1,2,5
+3,"Martin Juul",1,2,5
+4,"Andreas Mohr",1,1,4
+5,"Carsten Løvenkrands",1,1,4
+6,"Christian Mohr",1,1,4
+7,"Laura Jørgensen",1,1,4
+8,"Mie Jensen",1,1,4
+9,"Christian Andreasen",0,3,3
+10,"Jan Jul Tomczyk",0,3,3
+11,"Martin Lundberg",0,3,3
+12,"Pia Jørgensen",0,3,3
+13,"Allan Hansen",0,2,2
+14,"Anders Thusholt",0,2,2
+15,"Emil Jørgensen",0,2,2
+16,"Rolfen",0,2,2
+17,"Stefan Hvidkjær",0,2,2
+18,"TusIsking",0,2,2
+19,"Mads Sylvester",0,1,1
