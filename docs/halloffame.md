@@ -2,6 +2,11 @@
 
 For evigt udødeliggjorte er disse store mestre, som er blevet optaget i Hall of fame.
 
+## [VM 2022](slutrunder/vm2022/stillingen.md)
+| 1. Plads   | 2. Plads            | 3. Plads       |
+|------------|---------------------|----------------|
+| Mie Jensen | Christian Andreasen | Christian Mohr |
+
 ## [CL 2021/2022](slutrunder/cl2122/stillingen.md)
 | 1. Plads | 2. Plads | 3. Plads  |
 |----------|----------|-----------|
