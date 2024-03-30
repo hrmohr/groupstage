@@ -24,6 +24,10 @@ plugins:
 nav:
   - 'Hvad er det her?': index.md
   - 'Slutrunder':
+      - 'EM 2024':
+          - 'Deltag': slutrunder/em2024/deltag.md
+          - 'Stillingen': slutrunder/em2024/stillingen.md
+          - 'Alle tips': resources/em2024/em2024-stillingen.html
       - 'VM 2022':
           - 'Deltag': slutrunder/vm2022/deltag.md
           - 'Stillingen': slutrunder/vm2022/stillingen.md
