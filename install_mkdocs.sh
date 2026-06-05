@@ -2,7 +2,7 @@
 cd "$(dirname "$0")" || exit
 
 # create virtualenv
-python3 -m venv venv-mkdocs
+python3.11 -m venv venv-mkdocs
 
 # activate virtualenv and install mkdocs
 source venv-mkdocs/bin/activate
