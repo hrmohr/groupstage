@@ -1,9 +1,9 @@
-#,Navn,Rigtige cifre,Rigtige tipstegn,Point TOTAL
-1,Allan,8,20,44
-2,Mads Mohr,6,23,41
-3,Christian,6,21,39
-4,Mathias,5,21,36
-5,Andreas,4,22,34
-6,Martin Juul,2,25,31
-7,Anders Thusholt,2,22,28
-8,TusIsKing,2,21,27
+"#","Navn","Rigtige cifre","Rigtige tipstegn","Point TOTAL"
+1,"Allan",9,26,53
+2,"Mads Mohr",6,30,48
+3,"Christian",6,27,45
+4,"Mathias",6,26,44
+5,"Andreas",4,27,39
+6,"Anders Thusholt",2,29,35
+7,"TusIsKing",2,29,35
+8,"Martin Juul",2,28,34
