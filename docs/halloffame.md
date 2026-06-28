@@ -2,6 +2,11 @@
 
 For evigt udødeliggjorte er disse store mestre, som er blevet optaget i Hall of fame.
 
+## [VM 2026](slutrunder/vm2026/stillingen.md)
+| 1. Plads | 2. Plads  | 3. Plads |
+|----------|-----------|----------|
+| Allan    | Mads Mohr | Mathias  |
+
 ## [EM 2024](slutrunder/em2024/stillingen.md)
 | 1. Plads | 2. Plads     | 3. Plads       |
 |----------|--------------|----------------|
