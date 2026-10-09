@@ -33,6 +33,6 @@ six==1.17.0
 tabulate==0.10.0
 termcolor==3.3.0
 tzdata==2026.2
-urllib3==2.7.0
+urllib3==2.8.0
 watchdog==6.0.0
 wheel==0.47.0
